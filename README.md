@@ -7,7 +7,7 @@
       30/Jul  2   TALLER     TALLER	     2 polinomios 	
        6/Aug  3   TALLER     TALLER	     3 matrices dispersas 	
       13/Aug  4   TALLER     TALLER	     4 repr in memoria	
-      20/Aug  5   FESTIVO    TALLER	     prep parcial            	TALLERES 1-4
+      20/Aug  5   FESTIVO    TALLER	     prep parcial            	 TALLERES 1-4, MOOC ENTREGA 1
       27/Aug  6   parcial-1  TALLER	     5 listas generalizadas	
        3/Sep  7   TALLER     TALLER	     6 árboles, binarios	
       10/Sep  8   TALLER     TALLER	     7 árboles y búsqueda	
@@ -17,7 +17,7 @@
        8/Oct  12  TALLER     TALLER	     10 algos sobre grafos 2	
       15/Oct  13  FESTIVO    TALLER	     11 divide y venceras	
       22/Oct  14  TALLER     TALLER	     12 prog dinamica y ávida	
-      29/Oct  15  TALLER     TALLER	     prep parcial              TALLERES 9-12
+      29/Oct  15  TALLER     TALLER	     prep parcial              TALLERES 9-12, MOOC ENTREGA FINAL
        5/Nov  16  FESTIVO    parcial-3		
       12/Nov					
 
