@@ -2,12 +2,12 @@
 ### 2018 - Semestre II - Universidad de Antioquia
 
 ## Programa
-             week LIS        DRAI	       SALON                     deadlines
+             week LIS        DRAI	       SALON                     deadlines (domingo 11pm)
       23/Jul  1   intro      python      1 TAD, lista	
       30/Jul  2   TALLER     TALLER	     2 polinomios 	
        6/Aug  3   TALLER     TALLER	     3 matrices dispersas 	
       13/Aug  4   TALLER     TALLER	     4 repr in memoria	
-      20/Aug  5   FESTIVO    TALLER	     prep parcial            	 TALLERES 1-4, MOOC ENTREGA 1
+      20/Aug  5   FESTIVO    TALLER	     prep parcial              TALLERES 1-4, MOOC ENTREGA 1
       27/Aug  6   parcial-1  TALLER	     5 listas generalizadas	
        3/Sep  7   TALLER     TALLER	     6 árboles, binarios	
       10/Sep  8   TALLER     TALLER	     7 árboles y búsqueda	
