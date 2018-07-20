@@ -1,1 +1,43 @@
-# 20182.logicaIII
+# 2018/2 Lógica y estructuras III
+### 2018 - Semestre II - Universidad de Antioquia
+
+## Programa
+             week LIS        DRAI	       SALON                     deadlines
+      23/Jul  1   intro      python      1 TAD, lista	
+      30/Jul  2   TALLER     TALLER	     2 polinomios 	
+       6/Aug  3   TALLER     TALLER	     3 matrices dispersas 	
+      13/Aug  4   TALLER     TALLER	     4 repr in memoria	
+      20/Aug  5   FESTIVO    TALLER	     prep parcial            	TALLERES 1-4
+      27/Aug  6   parcial-1  TALLER	     5 listas generalizadas	
+       3/Sep  7   TALLER     TALLER	     6 árboles, binarios	
+      10/Sep  8   TALLER     TALLER	     7 árboles y búsqueda	
+      17/Sep  9   TALLER     TALLER	     8 grafos	
+      24/Sep  10  TALLER     TALLER	     prep parcial              TALLERES 5-8
+       1/Oct  11  parcial-2  TALLER	     9 algos sobre grafos 1	
+       8/Oct  12  TALLER     TALLER	     10 algos sobre grafos 2	
+      15/Oct  13  FESTIVO    TALLER	     11 divide y venceras	
+      22/Oct  14  TALLER     TALLER	     12 prog dinamica y ávida	
+      29/Oct  15  TALLER     TALLER	     prep parcial              TALLERES 9-12
+       5/Nov  16  FESTIVO    parcial-3		
+      12/Nov					
+
+**calendario**
+
+      23 Jul           inicio clases
+      15 Sep           cancelacion 40%
+      12 Nov           terminación clases
+      12 nov - 17 nov  exámenes finales
+      18 nov - 24 nov  habilitaciones
+      25 Nov           terminación clases
+
+
+## Máquina Virtual
+
+Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008](http://localhost:8008) una vez que la máquina arranca.
+
+**Observa la configuración de la máquina**
+
+- Si tu máquina física tiene al menos 4GB de memoria configura la máquina virtual **con 2GB de memoria**
+- Aunque casi no necesitarás un terminal, el interfaz de Jupyter Notebooks tiene un terminal para acceder a través del navegador. En cualquier caso, la máquina virtual tiene un servidor SSH en el puerto 2222 con user/user como usuario y pwd. Si tu máquina física es mac o linux usa `ssh -p 2222 user@localhost` para conectarte. Si es windows, usa [putty](https://www.putty.org/)
+- Si compartes una carpeta entre la física y virtual asegúrate que **el nombre cone el que se comparte** sea `share` (aunque el nombre de la carpeta en la máquina física puede ser distinto)
+
