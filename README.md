@@ -45,7 +45,7 @@ Tendrás que hacer un informe de tu seguimiento del MOOC. La entregas entregas s
 - Un archivo PDF llamado MOOC_descripcion.pdf donde se describa el MOOC
 
 **Segunda entrega**
-- Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realizacin del MOOC
+- Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realizacin del MOOC. Habrá de tener una o dos páginas que incluyan la dirección del curso, una descripción del mismo y la lista de lecciones que se propone realizar.
 - Un directorio llamado MOOC_materiales donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
 - Un archivo PDF llamado MOOC_vision.pdf donde expliques en qué crees que te puede servir el curso que ha realizado en tu vida profesional. Ha de tener entre 5 y 10 páginas, 12pt, single space.
 
