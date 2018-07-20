@@ -1,6 +1,8 @@
 # 2018/2 Lógica y estructuras III
 ### 2018 - Semestre II - Universidad de Antioquia
 
+### [REGISTRATE AQUI](https://goo.gl/forms/Ek9gDLO2vLpXpLaf2)
+
 ## Programa
              week LIS        DRAI	       SALON                     deadlines (domingo 11pm)
       23/Jul  1   intro      python      1 TAD, lista	
