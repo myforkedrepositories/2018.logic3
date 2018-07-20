@@ -29,6 +29,29 @@
       12 nov - 17 nov  exámenes finales
       18 nov - 24 nov  habilitaciones
       25 Nov           terminación clases
+      
+## Evaluación
+
+- 30% talleres
+- 40% exámenes parcials
+- 30% MOOC
+
+## Online Courses (MOOC)
+Habrás de realizar algún MOOC online que habrá de tratar un tecnológica y ha de cubrir aproximadamente 20 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
+
+Tendrs que hacer un informe de tu seguimiento del MOOC. La entrega ha de constar de:
+
+- Un archivo PDF llamado MOOC_descripcion.pdf donde se describa el MOOC (primera entrega)
+- Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realizacin del MOOC
+- Un directorio llamado MOOC_materiales donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
+
+**TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
+
+La calificación del curso vendrá dada por los siguientes criterios con el mismo peso cada uno:
+
+- COMPLEJIDAD DEL MOOC
+- COMPLECIÓN
+- CLARIDAD DEL REPORTE
 
 
 ## Máquina Virtual
@@ -38,6 +61,6 @@ Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda co
 **Observa la configuración de la máquina**
 
 - Si tu máquina física tiene al menos 4GB de memoria configura la máquina virtual **con 2GB de memoria**
-- Aunque casi no necesitarás un terminal, el interfaz de Jupyter Notebooks tiene un terminal para acceder a través del navegador. En cualquier caso, la máquina virtual tiene un servidor SSH en el puerto 2222 con user/user como usuario y pwd. Si tu máquina física es mac o linux usa `ssh -p 2222 user@localhost` para conectarte. Si es windows, usa [putty](https://www.putty.org/)
-- Si compartes una carpeta entre la física y virtual asegúrate que **el nombre cone el que se comparte** sea `share` (aunque el nombre de la carpeta en la máquina física puede ser distinto)
+- Aunque casi no necesitarás un terminal, el interfaz de Jupyter Notebooks tiene un terminal para acceder a través del navegador. En cualquier caso, la máquina virtual tiene un servidor SSH en el puerto 2222 con user/user como usuario y pwd. Si tu máquina física es mac o linux usa `ssh -p 2222 user@localhost` para conectarte. Si es Windows, usa [putty](https://www.putty.org/)
+- Si compartes una carpeta entre la física y virtual asegúrate que **el nombre con el que se comparte** sea `share` (aunque el nombre de la carpeta en la máquina física puede ser distinto)
 
