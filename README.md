@@ -37,22 +37,25 @@
 - 30% MOOC
 
 ## Online Courses (MOOC)
-Habrás de realizar algún MOOC online que habrá de tratar un tecnológica y ha de cubrir aproximadamente 20 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org),  [MiriadaX](https://miriadax.net/), etc.
+Habrás de realizar algún MOOC online que habrá de tratar algún y ha de tratar sobre algún tema STEM (Science, Technology, Engineering, Mathematics) y tendrá que consitituir aproximadamente 20 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org), [MiriadaX](https://miriadax.net/), etc.
 
-Tendrs que hacer un informe de tu seguimiento del MOOC. La entrega ha de constar de:
+Tendrás que hacer un informe de tu seguimiento del MOOC. La entregas entregas serán de la siguiente manera:
 
-- Un archivo PDF llamado MOOC_descripcion.pdf donde se describa el MOOC (primera entrega)
+**Primera entrega**
+- Un archivo PDF llamado MOOC_descripcion.pdf donde se describa el MOOC
+
+**Segunda entrega**
 - Un archivo PDF llamado MOOC_completado.pdf donde se incluya la evidencia de la realizacin del MOOC
 - Un directorio llamado MOOC_materiales donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
+- Un archivo PDF llamado MOOC_vision.pdf donde expliques en qué crees que te puede servir el curso que ha realizado en tu vida profesional. Ha de tener entre 5 y 10 páginas, 12pt, single space.
 
 **TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
 
 La calificación del curso vendrá dada por los siguientes criterios con el mismo peso cada uno:
 
-- COMPLEJIDAD DEL MOOC
-- COMPLECIÓN
-- CLARIDAD DEL REPORTE
-
+- COMPLECIÓN 
+- CLARIDAD DEL REPORTE DE EVIDENCIA
+- COHERENCIA DEL INFORME DE VISIÓN
 
 ## Máquina Virtual
 
