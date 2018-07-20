@@ -33,7 +33,7 @@
 ## Evaluación
 
 - 30% talleres
-- 40% exámenes parcials
+- 40% exámenes parciales
 - 30% MOOC
 
 ## Online Courses (MOOC)
