@@ -1,4 +1,4 @@
-# 2018/2 Lógica y estructuras III
+# Lógica y estructuras III
 ### 2018 - Semestre II - Universidad de Antioquia
 
 ### [REGISTRATE AQUI](https://goo.gl/forms/Ek9gDLO2vLpXpLaf2)
