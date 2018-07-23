@@ -39,7 +39,7 @@
 - 30% MOOC
 
 ## Online Courses (MOOC)
-Habrás de realizar algún MOOC online que habrá de tratar algún y ha de tratar sobre algún tema STEM (Science, Technology, Engineering, Mathematics) y tendrá que consitituir aproximadamente 20 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org), [MiriadaX](https://miriadax.net/), etc.
+Habrás de realizar algún MOOC online que trate sobre un tema STEM (Science, Technology, Engineering, Mathematics) y tendrá que consitituir aproximadamente 20 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org), [MiriadaX](https://miriadax.net/), etc.
 
 Tendrás que hacer un informe de tu seguimiento del MOOC. La entregas entregas serán de la siguiente manera:
 
