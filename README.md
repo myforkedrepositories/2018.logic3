@@ -10,7 +10,7 @@
        6/Aug  3   TALLER     TALLER	     3 matrices dispersas 	
       13/Aug  4   TALLER     TALLER	     4 repr in memoria	
       20/Aug  5   FESTIVO    TALLER	     prep parcial              TALLERES 1-4, MOOC ENTREGA 1
-      27/Aug  6   parcial-1  TALLER	     5 listas generalizadas	
+      27/Aug  6   TALLER     parcial-1   5 listas generalizadas	
        3/Sep  7   TALLER     TALLER	     6 árboles, binarios	
       10/Sep  8   TALLER     TALLER	     7 árboles y búsqueda	
       17/Sep  9   TALLER     TALLER	     8 grafos	
